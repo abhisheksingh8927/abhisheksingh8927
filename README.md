@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-5a3bb4184/)](https://www.linkedin.com/in/abhishek-singh-5a3bb4184/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://abhisheksingh8927.github.io/abhishekprofile/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Abhishek-green)](https://abhisheksingh8927.github.io/abhishekprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/18784053/abhishek-singh)
 
 I'm
